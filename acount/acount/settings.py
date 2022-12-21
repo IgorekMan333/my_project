@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'acount.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'sql_hr',
+        'NAME': 'todo',
         'USER': 'root',
         'PASSWORD': '314p618f',
         'HOST': 'localhost',
